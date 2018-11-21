@@ -3,6 +3,7 @@ package com.unical.ingsw.Esercitazione;
 import org.junit.*;
 
 public class AppTest {
+	
     private static App app;
 	
 	@BeforeClass

@@ -1,9 +1,5 @@
 package com.unical.ingsw.Esercitazione;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
 	
